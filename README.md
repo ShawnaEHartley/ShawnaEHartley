@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+
+Hey there, check out my portfolio https://www.shawna.dev
+
 
 <!--
 **ShawnaEHartley/ShawnaEHartley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
